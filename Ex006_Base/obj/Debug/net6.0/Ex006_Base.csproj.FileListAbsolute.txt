@@ -1,0 +1,15 @@
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/Ex006_Base.csproj.AssemblyReference.cache
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/Ex006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/Ex006_Base.AssemblyInfoInputs.cache
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/Ex006_Base.AssemblyInfo.cs
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/Ex006_Base.csproj.CoreCompileInputs.cache
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/bin/Debug/net6.0/Ex006_Base
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/bin/Debug/net6.0/Ex006_Base.deps.json
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/bin/Debug/net6.0/Ex006_Base.runtimeconfig.json
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/bin/Debug/net6.0/Ex006_Base.dll
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/bin/Debug/net6.0/Ex006_Base.pdb
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/Ex006_Base.dll
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/refint/Ex006_Base.dll
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/Ex006_Base.pdb
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/Ex006_Base.genruntimeconfig.cache
+/Users/marinaalfereva/Desktop/Examples/Ex006_Base/obj/Debug/net6.0/ref/Ex006_Base.dll
