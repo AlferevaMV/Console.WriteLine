@@ -1,0 +1,15 @@
+/Users/marinaalfereva/Desktop/Examples/ExSum/bin/Debug/net6.0/ExSum
+/Users/marinaalfereva/Desktop/Examples/ExSum/bin/Debug/net6.0/ExSum.deps.json
+/Users/marinaalfereva/Desktop/Examples/ExSum/bin/Debug/net6.0/ExSum.runtimeconfig.json
+/Users/marinaalfereva/Desktop/Examples/ExSum/bin/Debug/net6.0/ExSum.dll
+/Users/marinaalfereva/Desktop/Examples/ExSum/bin/Debug/net6.0/ExSum.pdb
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ExSum.csproj.AssemblyReference.cache
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ExSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ExSum.AssemblyInfoInputs.cache
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ExSum.AssemblyInfo.cs
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ExSum.csproj.CoreCompileInputs.cache
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ExSum.dll
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/refint/ExSum.dll
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ExSum.pdb
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ExSum.genruntimeconfig.cache
+/Users/marinaalfereva/Desktop/Examples/ExSum/obj/Debug/net6.0/ref/ExSum.dll
