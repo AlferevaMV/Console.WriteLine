@@ -1,0 +1,15 @@
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/Ex005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/Ex005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/Ex005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/Ex005_ConditionIfElse.AssemblyInfo.cs
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/Ex005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/bin/Debug/net6.0/Ex005_ConditionIfElse
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/bin/Debug/net6.0/Ex005_ConditionIfElse.deps.json
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/bin/Debug/net6.0/Ex005_ConditionIfElse.runtimeconfig.json
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/bin/Debug/net6.0/Ex005_ConditionIfElse.dll
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/bin/Debug/net6.0/Ex005_ConditionIfElse.pdb
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/Ex005_ConditionIfElse.dll
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/refint/Ex005_ConditionIfElse.dll
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/Ex005_ConditionIfElse.pdb
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/Ex005_ConditionIfElse.genruntimeconfig.cache
+/Users/marinaalfereva/Desktop/Examples/Ex005_ConditionIfElse/obj/Debug/net6.0/ref/Ex005_ConditionIfElse.dll
