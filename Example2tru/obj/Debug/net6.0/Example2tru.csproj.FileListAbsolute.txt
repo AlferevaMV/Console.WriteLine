@@ -1,0 +1,15 @@
+/Users/marinaalfereva/Desktop/Examples/Example2tru/bin/Debug/net6.0/Example2tru
+/Users/marinaalfereva/Desktop/Examples/Example2tru/bin/Debug/net6.0/Example2tru.deps.json
+/Users/marinaalfereva/Desktop/Examples/Example2tru/bin/Debug/net6.0/Example2tru.runtimeconfig.json
+/Users/marinaalfereva/Desktop/Examples/Example2tru/bin/Debug/net6.0/Example2tru.dll
+/Users/marinaalfereva/Desktop/Examples/Example2tru/bin/Debug/net6.0/Example2tru.pdb
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/Example2tru.csproj.AssemblyReference.cache
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/Example2tru.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/Example2tru.AssemblyInfoInputs.cache
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/Example2tru.AssemblyInfo.cs
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/Example2tru.csproj.CoreCompileInputs.cache
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/Example2tru.dll
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/refint/Example2tru.dll
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/Example2tru.pdb
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/Example2tru.genruntimeconfig.cache
+/Users/marinaalfereva/Desktop/Examples/Example2tru/obj/Debug/net6.0/ref/Example2tru.dll
